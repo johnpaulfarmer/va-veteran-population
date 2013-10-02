@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+  <row>
+    <Date>09/30/2010</Date>
+    <all veterans>23,031,892</all veterans>
+    <wartime veterans>17,117,921</wartime veterans>
+    <peacetime veterans>5,913,971</peacetime veterans>
+    <wwii>2,120,409</wwii>
+    <vietnam era>7,695,836</vietnam era>
+    <gulf war era>5,599,420</gulf war era>
+    <pre-wwii>27.521</pre-wwii>
+    <wwii only>1,914,817</wwii only>
+    <wwi and kore>149.809</wwi and kore>
+    <wwii korean vietnam>55.783</wwii korean vietnam>
+    <between wwi korean>141.223</between wwi korean>
+    <koren era only>2,120,543</koren era only>
+    <korean conflict>2,531,471</korean conflict>
+    <korean and vietnam era>205.336</korean and vietnam era>
+    <between korean and vietnam era>2,339,762</between korean and vietnam era>
+    <vietnam era only>7,072,213</vietnam era only>
+    <vietnam era and gulf war era>311.398</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>51.105</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,405,465</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,005,366</gulf war era and post 911 era>
+    <post 911 era>1,532,453</post 911 era>
+    <gulf war era and post 911>2,699,098</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2011</Date>
+    <all veterans>22,676,149</all veterans>
+    <wartime veterans>16,850,862</wartime veterans>
+    <peacetime veterans>5,825,286</peacetime veterans>
+    <wwii>1,630,848</wwii>
+    <vietnam era>7,574,032</vietnam era>
+    <gulf war era>5,954,523</gulf war era>
+    <pre-wwii>24.090</pre-wwii>
+    <wwii only>1,476,600</wwii only>
+    <wwi and kore>111.416</wwi and kore>
+    <wwii korean vietnam>42.832</wwii korean vietnam>
+    <between wwi korean>135.995</between wwi korean>
+    <koren era only>2,078,176</koren era only>
+    <korean conflict>2,433,372</korean conflict>
+    <korean and vietnam era>200.948</korean and vietnam era>
+    <between korean and vietnam era>2,257,355</between korean and vietnam era>
+    <vietnam era only>6,986,367</vietnam era only>
+    <vietnam era and gulf war era>297.842</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>46.042</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,407,847</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,079,086</gulf war era and post 911 era>
+    <post 911 era>1,790,290</post 911 era>
+    <gulf war era and post 911>2,741,263</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2012</Date>
+    <all veterans>22,328,279</all veterans>
+    <wartime veterans>16,706,224</wartime veterans>
+    <peacetime veterans>5,622,055</peacetime veterans>
+    <wwii>1,396,402</wwii>
+    <vietnam era>7,489,353</vietnam era>
+    <gulf war era>6,240,055</gulf war era>
+    <pre-wwii>20.549</pre-wwii>
+    <wwii only>1,267,880</wwii only>
+    <wwi and kore>93.074</wwi and kore>
+    <wwii korean vietnam>35.447</wwii korean vietnam>
+    <between wwi korean>113.936</between wwi korean>
+    <koren era only>1,951,991</koren era only>
+    <korean conflict>2,273,001</korean conflict>
+    <korean and vietnam era>192.489</korean and vietnam era>
+    <between korean and vietnam era>2,153,836</between korean and vietnam era>
+    <vietnam era only>6,925,289</vietnam era only>
+    <vietnam era and gulf war era>292.228</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>43.900</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,333,734</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,169,313</gulf war era and post 911 era>
+    <post 911 era>1,997,007</post 911 era>
+    <gulf war era and post 911>2,737,606</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2013</Date>
+    <all veterans>21,972,964</all veterans>
+    <wartime veterans>16,475,283</wartime veterans>
+    <peacetime veterans>5,497,681</peacetime veterans>
+    <wwii>1,245,660</wwii>
+    <vietnam era>7,330,032</vietnam era>
+    <gulf war era>6,484,914</gulf war era>
+    <pre-wwii>16.753</pre-wwii>
+    <wwii only>1,128,873</wwii only>
+    <wwi and kore>84.931</wwi and kore>
+    <wwii korean vietnam>31.856</wwii korean vietnam>
+    <between wwi korean>95.072</between wwi korean>
+    <koren era only>1,777,902</koren era only>
+    <korean conflict>2,073,580</korean conflict>
+    <korean and vietnam era>178.890</korean and vietnam era>
+    <between korean and vietnam era>2,073,441</between korean and vietnam era>
+    <vietnam era only>6,787,916</vietnam era only>
+    <vietnam era and gulf war era>288.143</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>43.227</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,312,415</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,256,325</gulf war era and post 911 era>
+    <post 911 era>2,179,706</post 911 era>
+    <gulf war era and post 911>2,717,512</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2014</Date>
+    <all veterans>21,619,731</all veterans>
+    <wartime veterans>16,205,888</wartime veterans>
+    <peacetime veterans>5,413,843</peacetime veterans>
+    <wwii>1,111,623</wwii>
+    <vietnam era>7,153,996</vietnam era>
+    <gulf war era>6,693,780</gulf war era>
+    <pre-wwii>13.308</pre-wwii>
+    <wwii only>1,002,466</wwii only>
+    <wwi and kore>79.594</wwi and kore>
+    <wwii korean vietnam>29.563</wwii korean vietnam>
+    <between wwi korean>85.486</between wwi korean>
+    <koren era only>1,606,823</koren era only>
+    <korean conflict>1,878,257</korean conflict>
+    <korean and vietnam era>162.277</korean and vietnam era>
+    <between korean and vietnam era>2,005,039</between korean and vietnam era>
+    <vietnam era only>6,631,385</vietnam era only>
+    <vietnam era and gulf war era>286.685</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>44.086</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,310,010</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,337,113</gulf war era and post 911 era>
+    <post 911 era>2,339,797</post 911 era>
+    <gulf war era and post 911>2,686,099</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2015</Date>
+    <all veterans>21,291,961</all veterans>
+    <wartime veterans>15,954,184</wartime veterans>
+    <peacetime veterans>5,337,777</peacetime veterans>
+    <wwii>940.674</wwii>
+    <vietnam era>6,962,018</vietnam era>
+    <gulf war era>6,919,682</gulf war era>
+    <pre-wwii>9.952</pre-wwii>
+    <wwii only>842.539</wwii only>
+    <wwi and kore>71.618</wwi and kore>
+    <wwii korean vietnam>26.517</wwii korean vietnam>
+    <between wwi korean>85.583</between wwi korean>
+    <koren era only>1,496,679</koren era only>
+    <korean conflict>1,742,446</korean conflict>
+    <korean and vietnam era>147.632</korean and vietnam era>
+    <between korean and vietnam era>1,936,161</between korean and vietnam era>
+    <vietnam era only>6,449,518</vietnam era only>
+    <vietnam era and gulf war era>290.658</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>47.693</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,306,080</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,425,117</gulf war era and post 911 era>
+    <post 911 era>2,494,297</post 911 era>
+    <gulf war era and post 911>2,661,916</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2016</Date>
+    <all veterans>20,966,249</all veterans>
+    <wartime veterans>15,712,869</wartime veterans>
+    <peacetime veterans>5,253,380</peacetime veterans>
+    <wwii>812.667</wwii>
+    <vietnam era>6,703,555</vietnam era>
+    <gulf war era>7,207,149</gulf war era>
+    <pre-wwii>8.407</pre-wwii>
+    <wwii only>727.255</wwii only>
+    <wwi and kore>62.357</wwi and kore>
+    <wwii korean vietnam>23.055</wwii korean vietnam>
+    <between wwi korean>75.763</between wwi korean>
+    <koren era only>1,346,063</koren era only>
+    <korean conflict>1,565,609</korean conflict>
+    <korean and vietnam era>134.133</korean and vietnam era>
+    <between korean and vietnam era>1,896,909</between korean and vietnam era>
+    <vietnam era only>6,212,856</vietnam era only>
+    <vietnam era and gulf war era>286.569</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>46.942</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,272,301</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,477,940</gulf war era and post 911 era>
+    <post 911 era>2,737,004</post 911 era>
+    <gulf war era and post 911>2,658,694</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2017</Date>
+    <all veterans>20,615,270</all veterans>
+    <wartime veterans>15,470,604</wartime veterans>
+    <peacetime veterans>5,144,666</peacetime veterans>
+    <wwii>686.964</wwii>
+    <vietnam era>6,484,370</vietnam era>
+    <gulf war era>7,427,190</gulf war era>
+    <pre-wwii>6.896</pre-wwii>
+    <wwii only>614.095</wwii only>
+    <wwi and kore>53.216</wwi and kore>
+    <wwii korean vietnam>19.652</wwii korean vietnam>
+    <between wwi korean>66.596</between wwi korean>
+    <koren era only>1,218,522</koren era only>
+    <korean conflict>1,414,071</korean conflict>
+    <korean and vietnam era>122.680</korean and vietnam era>
+    <between korean and vietnam era>1,829,369</between korean and vietnam era>
+    <vietnam era only>6,015,248</vietnam era only>
+    <vietnam era and gulf war era>280.808</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>45.982</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,228,412</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,532,618</gulf war era and post 911 era>
+    <post 911 era>2,915,281</post 911 era>
+    <gulf war era and post 911>2,652,501</gulf war era and post 911>
+    <post gulf war era>13.393</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2018</Date>
+    <all veterans>20,270,850</all veterans>
+    <wartime veterans>15,250,650</wartime veterans>
+    <peacetime veterans>5,020,199</peacetime veterans>
+    <wwii>553.356</wwii>
+    <vietnam era>6,297,325</vietnam era>
+    <gulf war era>7,631,276</gulf war era>
+    <pre-wwii>5.318</pre-wwii>
+    <wwii only>493.968</wwii only>
+    <wwi and kore>43.409</wwi and kore>
+    <wwii korean vietnam>15.979</wwii korean vietnam>
+    <between wwi korean>57.321</between wwi korean>
+    <koren era only>1,103,679</koren era only>
+    <korean conflict>1,275,115</korean conflict>
+    <korean and vietnam era>112.048</korean and vietnam era>
+    <between korean and vietnam era>1,724,841</between korean and vietnam era>
+    <vietnam era only>5,850,292</vietnam era only>
+    <vietnam era and gulf war era>274.066</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>44.941</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,201,106</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,588,669</gulf war era and post 911 era>
+    <post 911 era>3,084,411</post 911 era>
+    <gulf war era and post 911>2,639,188</gulf war era and post 911>
+    <post gulf war era>31.614</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2019</Date>
+    <all veterans>19,932,474</all veterans>
+    <wartime veterans>15,043,834</wartime veterans>
+    <peacetime veterans>4,888,640</peacetime veterans>
+    <wwii>419.923</wwii>
+    <vietnam era>6,162,142</vietnam era>
+    <gulf war era>7,798,893</gulf war era>
+    <pre-wwii>3.759</pre-wwii>
+    <wwii only>374.118</wwii only>
+    <wwi and kore>33.538</wwi and kore>
+    <wwii korean vietnam>12.267</wwii korean vietnam>
+    <between wwi korean>47.980</between wwi korean>
+    <koren era only>986.715</koren era only>
+    <korean conflict>1,133,410</korean conflict>
+    <korean and vietnam era>100.890</korean and vietnam era>
+    <between korean and vietnam era>1,600,368</between korean and vietnam era>
+    <vietnam era only>5,737,413</vietnam era only>
+    <vietnam era and gulf war era>267.611</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>43.962</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,173,759</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,645,817</gulf war era and post 911 era>
+    <post 911 era>3,223,487</post 911 era>
+    <gulf war era and post 911>2,618,016</gulf war era and post 911>
+    <post gulf war era>62.775</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2020</Date>
+    <all veterans>19,604,276</all veterans>
+    <wartime veterans>14,828,327</wartime veterans>
+    <peacetime veterans>4,775,948</peacetime veterans>
+    <wwii>289.953</wwii>
+    <vietnam era>6,049,166</vietnam era>
+    <gulf war era>7,935,460</gulf war era>
+    <pre-wwii>2.252</pre-wwii>
+    <wwii only>257.445</wwii only>
+    <wwi and kore>23.886</wwi and kore>
+    <wwii korean vietnam>8.621</wwii korean vietnam>
+    <between wwi korean>38.789</between wwi korean>
+    <koren era only>867.737</koren era only>
+    <korean conflict>989.383</korean conflict>
+    <korean and vietnam era>89.139</korean and vietnam era>
+    <between korean and vietnam era>1,465,142</between korean and vietnam era>
+    <vietnam era only>5,646,039</vietnam era only>
+    <vietnam era and gulf war era>262.212</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>43.154</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,151,077</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,710,221</gulf war era and post 911 era>
+    <post 911 era>3,321,797</post 911 era>
+    <gulf war era and post 911>2,598,074</gulf war era and post 911>
+    <post gulf war era>118.689</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2021</Date>
+    <all veterans>19,294,455</all veterans>
+    <wartime veterans>14,530,742</wartime veterans>
+    <peacetime veterans>4,763,713</peacetime veterans>
+    <wwii>237.316</wwii>
+    <vietnam era>5,766,533</vietnam era>
+    <gulf war era>8,074,089</gulf war era>
+    <pre-wwii>1.810</pre-wwii>
+    <wwii only>210.568</wwii only>
+    <wwi and kore>19.653</wwi and kore>
+    <wwii korean vietnam>7.095</wwii korean vietnam>
+    <between wwi korean>32.718</between wwi korean>
+    <koren era only>758.393</koren era only>
+    <korean conflict>863.884</korean conflict>
+    <korean and vietnam era>78.744</korean and vietnam era>
+    <between korean and vietnam era>1,408,250</between korean and vietnam era>
+    <vietnam era only>5,382,200</vietnam era only>
+    <vietnam era and gulf war era>256.349</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>42.145</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,108,633</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,769,817</gulf war era and post 911 era>
+    <post 911 era>3,411,343</post 911 era>
+    <gulf war era and post 911>2,594,435</gulf war era and post 911>
+    <post gulf war era>212.303</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2022</Date>
+    <all veterans>18,993,756</all veterans>
+    <wartime veterans>14,257,944</wartime veterans>
+    <peacetime veterans>4,735,812</peacetime veterans>
+    <wwii>188.809</wwii>
+    <vietnam era>5,520,955</vietnam era>
+    <gulf war era>8,184,443</gulf war era>
+    <pre-wwii>1.403</pre-wwii>
+    <wwii only>167.388</wwii only>
+    <wwi and kore>15.742</wwi and kore>
+    <wwii korean vietnam>5.679</wwii korean vietnam>
+    <between wwi korean>27.139</between wwi korean>
+    <koren era only>659.372</koren era only>
+    <korean conflict>750.133</korean conflict>
+    <korean and vietnam era>69.340</korean and vietnam era>
+    <between korean and vietnam era>1,330,770</between korean and vietnam era>
+    <vietnam era only>5,155,980</vietnam era only>
+    <vietnam era and gulf war era>249.009</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>40.947</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,055,354</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,801,301</gulf war era and post 911 era>
+    <post 911 era>3,509,711</post 911 era>
+    <gulf war era and post 911>2,583,474</gulf war era and post 911>
+    <post gulf war era>321.146</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2023</Date>
+    <all veterans>18,695,556</all veterans>
+    <wartime veterans>13,987,046</wartime veterans>
+    <peacetime veterans>4,708,510</peacetime veterans>
+    <wwii>143.203</wwii>
+    <vietnam era>5,302,888</vietnam era>
+    <gulf war era>8,261,975</gulf war era>
+    <pre-wwii>1.021</pre-wwii>
+    <wwii only>126.806</wwii only>
+    <wwi and kore>12.059</wwi and kore>
+    <wwii korean vietnam>4.337</wwii korean vietnam>
+    <between wwi korean>21.912</between wwi korean>
+    <koren era only>563.784</koren era only>
+    <korean conflict>640.156</korean conflict>
+    <korean and vietnam era>59.975</korean and vietnam era>
+    <between korean and vietnam era>1,219,064</between korean and vietnam era>
+    <vietnam era only>4,958,109</vietnam era only>
+    <vietnam era and gulf war era>240.787</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>39.679</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>3,018,399</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,820,026</gulf war era and post 911 era>
+    <post 911 era>3,595,479</post 911 era>
+    <gulf war era and post 911>2,566,005</gulf war era and post 911>
+    <post gulf war era>448.115</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2024</Date>
+    <all veterans>18,405,928</all veterans>
+    <wartime veterans>13,731,769</wartime veterans>
+    <peacetime veterans>4,674,159</peacetime veterans>
+    <wwii>98.295</wwii>
+    <vietnam era>5,129,792</vietnam era>
+    <gulf war era>8,312,125</gulf war era>
+    <pre-wwii>646</pre-wwii>
+    <wwii only>86.874</wwii only>
+    <wwi and kore>8.418</wwi and kore>
+    <wwii korean vietnam>3.002</wwii korean vietnam>
+    <between wwi korean>16.712</between wwi korean>
+    <koren era only>465.861</koren era only>
+    <korean conflict>527.411</korean conflict>
+    <korean and vietnam era>50.129</korean and vietnam era>
+    <between korean and vietnam era>1,090,358</between korean and vietnam era>
+    <vietnam era only>4,805,358</vietnam era only>
+    <vietnam era and gulf war era>232.835</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>38.467</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,982,308</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,834,912</gulf war era and post 911 era>
+    <post 911 era>3,664,981</post 911 era>
+    <gulf war era and post 911>2,540,931</gulf war era and post 911>
+    <post gulf war era>584.134</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2025</Date>
+    <all veterans>18,121,959</all veterans>
+    <wartime veterans>13,480,492</wartime veterans>
+    <peacetime veterans>4,641,467</peacetime veterans>
+    <wwii>55.283</wwii>
+    <vietnam era>4,974,490</vietnam era>
+    <gulf war era>8,347,306</gulf war era>
+    <pre-wwii>288</pre-wwii>
+    <wwii only>48.648</wwii only>
+    <wwi and kore>4.923</wwi and kore>
+    <wwii korean vietnam>1.712</wwii korean vietnam>
+    <between wwi korean>11.727</between wwi korean>
+    <koren era only>368.306</koren era only>
+    <korean conflict>414.916</korean conflict>
+    <korean and vietnam era>39.975</korean and vietnam era>
+    <between korean and vietnam era>951.546</between korean and vietnam era>
+    <vietnam era only>4,669,622</vietnam era only>
+    <vietnam era and gulf war era>225.781</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>37.401</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,950,851</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,853,612</gulf war era and post 911 era>
+    <post 911 era>3,713,595</post 911 era>
+    <gulf war era and post 911>2,516,918</gulf war era and post 911>
+    <post gulf war era>727.056</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2026</Date>
+    <all veterans>17,842,838</all veterans>
+    <wartime veterans>13,179,993</wartime veterans>
+    <peacetime veterans>4,662,845</peacetime veterans>
+    <wwii>45.298</wwii>
+    <vietnam era>4,676,228</vietnam era>
+    <gulf war era>8,401,531</gulf war era>
+    <pre-wwii>235</pre-wwii>
+    <wwii only>39.854</wwii only>
+    <wwi and kore>4.038</wwi and kore>
+    <wwii korean vietnam>1.407</wwii korean vietnam>
+    <between wwi korean>9.761</between wwi korean>
+    <koren era only>312.473</koren era only>
+    <korean conflict>352.145</korean conflict>
+    <korean and vietnam era>34.228</korean and vietnam era>
+    <between korean and vietnam era>887.383</between korean and vietnam era>
+    <vietnam era only>4,386,463</vietnam era only>
+    <vietnam era and gulf war era>218.035</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>36.095</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,893,616</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,859,081</gulf war era and post 911 era>
+    <post 911 era>3,783,690</post 911 era>
+    <gulf war era and post 911>2,504,629</gulf war era and post 911>
+    <post gulf war era>871.849</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2027</Date>
+    <all veterans>17,576,857</all veterans>
+    <wartime veterans>12,909,844</wartime veterans>
+    <peacetime veterans>4,667,013</peacetime veterans>
+    <wwii>36.351</wwii>
+    <vietnam era>4,407,139</vietnam era>
+    <gulf war era>8,447,074</gulf war era>
+    <pre-wwii>188</pre-wwii>
+    <wwii only>31.974</wwii only>
+    <wwi and kore>3.245</wwi and kore>
+    <wwii korean vietnam>1.133</wwii korean vietnam>
+    <between wwi korean>8.020</between wwi korean>
+    <koren era only>264.048</koren era only>
+    <korean conflict>297.680</korean conflict>
+    <korean and vietnam era>29.255</korean and vietnam era>
+    <between korean and vietnam era>807.902</between korean and vietnam era>
+    <vietnam era only>4,133,116</vietnam era only>
+    <vietnam era and gulf war era>209.008</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>34.628</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,827,467</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,862,224</gulf war era and post 911 era>
+    <post 911 era>3,855,679</post 911 era>
+    <gulf war era and post 911>2,485,535</gulf war era and post 911>
+    <post gulf war era>1,023,435</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2028</Date>
+    <all veterans>17,308,199</all veterans>
+    <wartime veterans>12,632,259</wartime veterans>
+    <peacetime veterans>4,675,940</peacetime veterans>
+    <wwii>26.927</wwii>
+    <vietnam era>4,158,529</vietnam era>
+    <gulf war era>8,466,976</gulf war era>
+    <pre-wwii>139</pre-wwii>
+    <wwii only>23.675</wwii only>
+    <wwi and kore>2.411</wwi and kore>
+    <wwii korean vietnam>841</wwii korean vietnam>
+    <between wwi korean>6.182</between wwi korean>
+    <koren era only>212.941</koren era only>
+    <korean conflict>240.131</korean conflict>
+    <korean and vietnam era>23.938</korean and vietnam era>
+    <between korean and vietnam era>706.987</between korean and vietnam era>
+    <vietnam era only>3,901,477</vietnam era only>
+    <vietnam era and gulf war era>199.183</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>33.089</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,776,510</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,861,157</gulf war era and post 911 era>
+    <post 911 era>3,913,864</post 911 era>
+    <gulf war era and post 911>2,459,683</gulf war era and post 911>
+    <post gulf war era>1,186,122</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2029</Date>
+    <all veterans>17,044,776</all veterans>
+    <wartime veterans>12,364,076</wartime veterans>
+    <peacetime veterans>4,680,700</peacetime veterans>
+    <wwii>17.198</wwii>
+    <vietnam era>3,941,585</vietnam era>
+    <gulf war era>8,466,531</gulf war era>
+    <pre-wwii>88</pre-wwii>
+    <wwii only>15.113</wwii only>
+    <wwi and kore>1.548</wwi and kore>
+    <wwii korean vietnam>537</wwii korean vietnam>
+    <between wwi korean>4.283</between wwi korean>
+    <koren era only>160.388</koren era only>
+    <korean conflict>180.876</korean conflict>
+    <korean and vietnam era>18.403</korean and vietnam era>
+    <between korean and vietnam era>597.120</between korean and vietnam era>
+    <vietnam era only>3,701,555</vietnam era only>
+    <vietnam era and gulf war era>189.509</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>31.581</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,727,452</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,858,054</gulf war era and post 911 era>
+    <post 911 era>3,960,883</post 911 era>
+    <gulf war era and post 911>2,426,504</gulf war era and post 911>
+    <post gulf war era>1,351,758</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2030</Date>
+    <all veterans>16,776,896</all veterans>
+    <wartime veterans>12,087,374</wartime veterans>
+    <peacetime veterans>4,689,522</peacetime veterans>
+    <wwii>6.998</wwii>
+    <vietnam era>3,734,662</vietnam era>
+    <gulf war era>8,451,138</gulf war era>
+    <pre-wwii>34</pre-wwii>
+    <wwii only>6.140</wwii only>
+    <wwi and kore>643</wwi and kore>
+    <wwii korean vietnam>215</wwii korean vietnam>
+    <between wwi korean>2.292</between wwi korean>
+    <koren era only>105.505</koren era only>
+    <korean conflict>118.921</korean conflict>
+    <korean and vietnam era>12.559</korean and vietnam era>
+    <between korean and vietnam era>486.523</between korean and vietnam era>
+    <vietnam era only>3,511,175</vietnam era only>
+    <vietnam era and gulf war era>180.534</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>30.180</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,683,196</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,857,982</gulf war era and post 911 era>
+    <post 911 era>3,988,017</post 911 era>
+    <gulf war era and post 911>2,394,425</gulf war era and post 911>
+    <post gulf war era>1,517,477</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2031</Date>
+    <all veterans>16,516,215</all veterans>
+    <wartime veterans>11,775,302</wartime veterans>
+    <peacetime veterans>4,740,913</peacetime veterans>
+    <wwii>6.287</wwii>
+    <vietnam era>3,416,658</vietnam era>
+    <gulf war era>8,455,841</gulf war era>
+    <pre-wwii>30</pre-wwii>
+    <wwii only>5.515</wwii only>
+    <wwi and kore>579</wwi and kore>
+    <wwii korean vietnam>194</wwii korean vietnam>
+    <between wwi korean>2.068</between wwi korean>
+    <koren era only>96.040</koren era only>
+    <korean conflict>108.352</korean conflict>
+    <korean and vietnam era>11.538</korean and vietnam era>
+    <between korean and vietnam era>455.339</between korean and vietnam era>
+    <vietnam era only>3,205,595</vietnam era only>
+    <vietnam era and gulf war era>170.805</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>28.526</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,608,352</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,847,736</gulf war era and post 911 era>
+    <post 911 era>4,037,551</post 911 era>
+    <gulf war era and post 911>2,371,223</gulf war era and post 911>
+    <post gulf war era>1,675,123</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2032</Date>
+    <all veterans>16,248,838</all veterans>
+    <wartime veterans>11,479,794</wartime veterans>
+    <peacetime veterans>4,769,044</peacetime veterans>
+    <wwii>5.247</wwii>
+    <vietnam era>3,138,788</vietnam era>
+    <gulf war era>8,441,558</gulf war era>
+    <pre-wwii>25</pre-wwii>
+    <wwii only>4.601</wwii only>
+    <wwi and kore>483</wwi and kore>
+    <wwii korean vietnam>163</wwii korean vietnam>
+    <between wwi korean>1.734</between wwi korean>
+    <koren era only>81.644</koren era only>
+    <korean conflict>92.193</korean conflict>
+    <korean and vietnam era>9.902</korean and vietnam era>
+    <between korean and vietnam era>404.919</between korean and vietnam era>
+    <vietnam era only>2,941,443</vietnam era only>
+    <vietnam era and gulf war era>160.461</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>26.819</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,528,086</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,832,406</gulf war era and post 911 era>
+    <post 911 era>4,079,075</post 911 era>
+    <gulf war era and post 911>2,342,795</gulf war era and post 911>
+    <post gulf war era>1,834,279</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2033</Date>
+    <all veterans>15,986,005</all veterans>
+    <wartime veterans>11,185,176</wartime veterans>
+    <peacetime veterans>4,800,829</peacetime veterans>
+    <wwii>3.892</wwii>
+    <vietnam era>2,882,020</vietnam era>
+    <gulf war era>8,411,658</gulf war era>
+    <pre-wwii>19</pre-wwii>
+    <wwii only>3.413</wwii only>
+    <wwi and kore>358</wwi and kore>
+    <wwii korean vietnam>121</wwii korean vietnam>
+    <between wwi korean>1.295</between wwi korean>
+    <koren era only>62.446</koren era only>
+    <korean conflict>70.583</korean conflict>
+    <korean and vietnam era>7.658</korean and vietnam era>
+    <between korean and vietnam era>334.227</between korean and vietnam era>
+    <vietnam era only>2,699,522</vietnam era only>
+    <vietnam era and gulf war era>149.634</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>25.086</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,462,946</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,815,233</gulf war era and post 911 era>
+    <post 911 era>4,113,087</post 911 era>
+    <gulf war era and post 911>2,308,619</gulf war era and post 911>
+    <post gulf war era>2,002,342</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2034</Date>
+    <all veterans>15,732,492</all veterans>
+    <wartime veterans>10,905,081</wartime veterans>
+    <peacetime veterans>4,827,411</peacetime veterans>
+    <wwii>2.369</wwii>
+    <vietnam era>2,657,357</vietnam era>
+    <gulf war era>8,367,506</gulf war era>
+    <pre-wwii>12</pre-wwii>
+    <wwii only>2.078</wwii only>
+    <wwi and kore>218</wwi and kore>
+    <wwii korean vietnam>74</wwii korean vietnam>
+    <between wwi korean>800</between wwi korean>
+    <koren era only>40.658</koren era only>
+    <korean conflict>46.023</korean conflict>
+    <korean and vietnam era>5.073</korean and vietnam era>
+    <between korean and vietnam era>252.102</between korean and vietnam era>
+    <vietnam era only>2,489,474</vietnam era only>
+    <vietnam era and gulf war era>139.290</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>23.446</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,402,213</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,799,173</gulf war era and post 911 era>
+    <post 911 era>4,136,560</post 911 era>
+    <gulf war era and post 911>2,269,037</gulf war era and post 911>
+    <post gulf war era>2,172,285</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2035</Date>
+    <all veterans>15,484,406</all veterans>
+    <wartime veterans>10,633,554</wartime veterans>
+    <peacetime veterans>4,850,853</peacetime veterans>
+    <wwii>778</wwii>
+    <vietnam era>2,447,523</vietnam era>
+    <gulf war era>8,319,386</gulf war era>
+    <pre-wwii>4</pre-wwii>
+    <wwii only>683</wwii only>
+    <wwi and kore>71</wwi and kore>
+    <wwii korean vietnam>24</wwii korean vietnam>
+    <between wwi korean>282</between wwi korean>
+    <koren era only>17.777</koren era only>
+    <korean conflict>20.206</korean conflict>
+    <korean and vietnam era>2.335</korean and vietnam era>
+    <between korean and vietnam era>163.413</between korean and vietnam era>
+    <vietnam era only>2,293,278</vietnam era only>
+    <vietnam era and gulf war era>129.912</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>21.974</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,347,488</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,790,057</gulf war era and post 911 era>
+    <post 911 era>4,145,778</post 911 era>
+    <gulf war era and post 911>2,231,666</gulf war era and post 911>
+    <post gulf war era>2,339,666</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2036</Date>
+    <all veterans>15,247,531</all veterans>
+    <wartime veterans>10,359,161</wartime veterans>
+    <peacetime veterans>4,888,370</peacetime veterans>
+    <wwii>629</wwii>
+    <vietnam era>2,203,991</vietnam era>
+    <gulf war era>8,280,084</gulf war era>
+    <pre-wwii>3</pre-wwii>
+    <wwii only>553</wwii only>
+    <wwi and kore>57</wwi and kore>
+    <wwii korean vietnam>19</wwii korean vietnam>
+    <between wwi korean>227</between wwi korean>
+    <koren era only>14.325</koren era only>
+    <korean conflict>16.281</korean conflict>
+    <korean and vietnam era>1.879</korean and vietnam era>
+    <between korean and vietnam era>135.554</between korean and vietnam era>
+    <vietnam era only>2,062,244</vietnam era only>
+    <vietnam era and gulf war era>119.603</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>20.246</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,250,819</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,768,631</gulf war era and post 911 era>
+    <post 911 era>4,175,540</post 911 era>
+    <gulf war era and post 911>2,196,065</gulf war era and post 911>
+    <post gulf war era>2,501,767</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2037</Date>
+    <all veterans>15,025,505</all veterans>
+    <wartime veterans>10,078,218</wartime veterans>
+    <peacetime veterans>4,947,287</peacetime veterans>
+    <wwii>488</wwii>
+    <vietnam era>1,969,237</vietnam era>
+    <gulf war era>8,225,317</gulf war era>
+    <pre-wwii>3</pre-wwii>
+    <wwii only>429</wwii only>
+    <wwi and kore>44</wwi and kore>
+    <wwii korean vietnam>15</wwii korean vietnam>
+    <between wwi korean>176</between wwi korean>
+    <koren era only>11.082</koren era only>
+    <korean conflict>12.592</korean conflict>
+    <korean and vietnam era>1.452</korean and vietnam era>
+    <between korean and vietnam era>109.342</between korean and vietnam era>
+    <vietnam era only>1,839,880</vietnam era only>
+    <vietnam era and gulf war era>109.349</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>18.542</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,157,686</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,745,877</gulf war era and post 911 era>
+    <post 911 era>4,192,294</post 911 era>
+    <gulf war era and post 911>2,159,255</gulf war era and post 911>
+    <post gulf war era>2,680,080</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2038</Date>
+    <all veterans>14,817,771</all veterans>
+    <wartime veterans>9,779,065</wartime veterans>
+    <peacetime veterans>5,038,706</peacetime veterans>
+    <wwii>349</wwii>
+    <vietnam era>1,731,267</vietnam era>
+    <gulf war era>8,155,191</gulf war era>
+    <pre-wwii>2</pre-wwii>
+    <wwii only>307</wwii only>
+    <wwi and kore>31</wwi and kore>
+    <wwii korean vietnam>10</wwii korean vietnam>
+    <between wwi korean>125</between wwi korean>
+    <koren era only>7.925</koren era only>
+    <korean conflict>9.002</korean conflict>
+    <korean and vietnam era>1.035</korean and vietnam era>
+    <between korean and vietnam era>83.517</between korean and vietnam era>
+    <vietnam era only>1,614,564</vietnam era only>
+    <vietnam era and gulf war era>98.845</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>16.812</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,082,084</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,722,236</gulf war era and post 911 era>
+    <post 911 era>4,198,312</post 911 era>
+    <gulf war era and post 911>2,118,986</gulf war era and post 911>
+    <post gulf war era>2,872,977</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2039</Date>
+    <all veterans>14,632,708</all veterans>
+    <wartime veterans>9,486,002</wartime veterans>
+    <peacetime veterans>5,146,706</peacetime veterans>
+    <wwii>221</wwii>
+    <vietnam era>1,507,240</vietnam era>
+    <gulf war era>8,077,068</gulf war era>
+    <pre-wwii>1</pre-wwii>
+    <wwii only>195</wwii only>
+    <wwi and kore>20</wwi and kore>
+    <wwii korean vietnam>7</wwii korean vietnam>
+    <between wwi korean>79</between wwi korean>
+    <koren era only>5.064</koren era only>
+    <korean conflict>5.751</korean conflict>
+    <korean and vietnam era>661</korean and vietnam era>
+    <between korean and vietnam era>60.211</between korean and vietnam era>
+    <vietnam era only>1,402,988</vietnam era only>
+    <vietnam era and gulf war era>88.488</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>15.096</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>2,013,168</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,700,410</gulf war era and post 911 era>
+    <post 911 era>4,197,982</post 911 era>
+    <gulf war era and post 911>2,075,092</gulf war era and post 911>
+    <post gulf war era>3,073,247</post gulf war era>
+  </row>
+  <row>
+    <Date>09/30/2040</Date>
+    <all veterans>14,462,805</all veterans>
+    <wartime veterans>9,200,314</wartime veterans>
+    <peacetime veterans>5,262,491</peacetime veterans>
+    <wwii>100</wwii>
+    <vietnam era>1,292,854</vietnam era>
+    <gulf war era>7,996,459</gulf war era>
+    <pre-wwii>1</pre-wwii>
+    <wwii only>88</wwii only>
+    <wwi and kore>9</wwi and kore>
+    <wwii korean vietnam>3</wwii korean vietnam>
+    <between wwi korean>36</between wwi korean>
+    <koren era only>2.413</koren era only>
+    <korean conflict>2.742</korean conflict>
+    <korean and vietnam era>317</korean and vietnam era>
+    <between korean and vietnam era>38.717</between korean and vietnam era>
+    <vietnam era only>1,201,025</vietnam era only>
+    <vietnam era and gulf war era>78.130</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>13.378</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>1,948,235</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>1,685,408</gulf war era and post 911 era>
+    <post 911 era>4,186,723</post 911 era>
+    <gulf war era and post 911>2,032,819</gulf war era and post 911>
+    <post gulf war era>3,275,502</post gulf war era>
+  </row>
+</rows>

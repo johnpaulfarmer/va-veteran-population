@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+  <row>
+    <VISN>1</VISN>
+    <VISN name>VA New England Healthcare System</VISN name>
+    <17-44>160.471</17-44>
+    <45-64>384.716</45-64>
+    <65-84>400.970</65-84>
+    <85+>81.557</85+>
+    <Grand Total>1,027,715</Grand Total>
+  </row>
+  <row>
+    <VISN>2</VISN>
+    <VISN name>VA Healthcare Network Upstate New York</VISN name>
+    <17-44>83.022</17-44>
+    <45-64>189.501</45-64>
+    <65-84>178.150</65-84>
+    <85+>35.079</85+>
+    <Grand Total>485.752</Grand Total>
+  </row>
+  <row>
+    <VISN>3</VISN>
+    <VISN name>VA NY/NJ Veterans Healthcare Network </VISN name>
+    <17-44>125.968</17-44>
+    <45-64>283.526</45-64>
+    <65-84>345.651</65-84>
+    <85+>73.187</85+>
+    <Grand Total>828.333</Grand Total>
+  </row>
+  <row>
+    <VISN>4</VISN>
+    <VISN name>VA Healthcare - VISN 4 </VISN name>
+    <17-44>219.031</17-44>
+    <45-64>493.216</45-64>
+    <65-84>524.499</65-84>
+    <85+>96.633</85+>
+    <Grand Total>1,333,378</Grand Total>
+  </row>
+  <row>
+    <VISN>5</VISN>
+    <VISN name>VA Capitol Health Care Network</VISN name>
+    <17-44>190.231</17-44>
+    <45-64>324.513</45-64>
+    <65-84>216.674</65-84>
+    <85+>39.608</85+>
+    <Grand Total>771.026</Grand Total>
+  </row>
+  <row>
+    <VISN>6</VISN>
+    <VISN name>VA Mid-Atlantic Health Care Network</VISN name>
+    <17-44>342.185</17-44>
+    <45-64>581.366</45-64>
+    <65-84>406.743</65-84>
+    <85+>61.989</85+>
+    <Grand Total>1,392,283</Grand Total>
+  </row>
+  <row>
+    <VISN>7</VISN>
+    <VISN name>VA Southeast Network</VISN name>
+    <17-44>340.870</17-44>
+    <45-64>637.338</45-64>
+    <65-84>451.639</65-84>
+    <85+>65.378</85+>
+    <Grand Total>1,495,225</Grand Total>
+  </row>
+  <row>
+    <VISN>8</VISN>
+    <VISN name>VA Sunshine Healthcare Network</VISN name>
+    <17-44>288.058</17-44>
+    <45-64>625.992</45-64>
+    <65-84>586.478</65-84>
+    <85+>121.339</85+>
+    <Grand Total>1,621,866</Grand Total>
+  </row>
+  <row>
+    <VISN>9</VISN>
+    <VISN name>VA Mid South Healthcare Network</VISN name>
+    <17-44>202.254</17-44>
+    <45-64>426.727</45-64>
+    <65-84>344.199</65-84>
+    <85+>51.898</85+>
+    <Grand Total>1,025,079</Grand Total>
+  </row>
+  <row>
+    <VISN>10</VISN>
+    <VISN name>VA Healthcare System of Ohio</VISN name>
+    <17-44>158.509</17-44>
+    <45-64>357.697</45-64>
+    <65-84>320.987</65-84>
+    <85+>49.134</85+>
+    <Grand Total>886.327</Grand Total>
+  </row>
+  <row>
+    <VISN>11</VISN>
+    <VISN name>Veterans In Partnership</VISN name>
+    <17-44>220.307</17-44>
+    <45-64>506.101</45-64>
+    <65-84>462.928</65-84>
+    <85+>69.255</85+>
+    <Grand Total>1,258,591</Grand Total>
+  </row>
+  <row>
+    <VISN>12</VISN>
+    <VISN name>VA Great Lakes Health Care System</VISN name>
+    <17-44>179.114</17-44>
+    <45-64>371.576</45-64>
+    <65-84>366.000</65-84>
+    <85+>63.720</85+>
+    <Grand Total>980.411</Grand Total>
+  </row>
+  <row>
+    <VISN>15</VISN>
+    <VISN name>VA Heartland Network</VISN name>
+    <17-44>174.614</17-44>
+    <45-64>355.155</45-64>
+    <65-84>311.666</65-84>
+    <85+>54.124</85+>
+    <Grand Total>895.560</Grand Total>
+  </row>
+  <row>
+    <VISN>16</VISN>
+    <VISN name>South Central VA Health Care Network</VISN name>
+    <17-44>400.711</17-44>
+    <45-64>718.339</45-64>
+    <65-84>571.334</65-84>
+    <85+>92.489</85+>
+    <Grand Total>1,782,873</Grand Total>
+  </row>
+  <row>
+    <VISN>17</VISN>
+    <VISN name>VA Heart of Texas Health Care Network</VISN name>
+    <17-44>273.036</17-44>
+    <45-64>428.568</45-64>
+    <65-84>316.686</65-84>
+    <85+>53.239</85+>
+    <Grand Total>1,071,530</Grand Total>
+  </row>
+  <row>
+    <VISN>18</VISN>
+    <VISN name>VA Southwest Health Care Network</VISN name>
+    <17-44>193.029</17-44>
+    <45-64>344.332</45-64>
+    <65-84>292.938</65-84>
+    <85+>53.047</85+>
+    <Grand Total>883.346</Grand Total>
+  </row>
+  <row>
+    <VISN>19</VISN>
+    <VISN name>Rocky Mountain Network</VISN name>
+    <17-44>168.586</17-44>
+    <45-64>303.887</45-64>
+    <65-84>228.775</65-84>
+    <85+>40.334</85+>
+    <Grand Total>741.582</Grand Total>
+  </row>
+  <row>
+    <VISN>20</VISN>
+    <VISN name>Northwest Network</VISN name>
+    <17-44>255.240</17-44>
+    <45-64>476.724</45-64>
+    <65-84>353.544</65-84>
+    <85+>65.171</85+>
+    <Grand Total>1,150,679</Grand Total>
+  </row>
+  <row>
+    <VISN>21</VISN>
+    <VISN name>Sierra Pacific Network</VISN name>
+    <17-44>196.481</17-44>
+    <45-64>408.716</45-64>
+    <65-84>332.836</65-84>
+    <85+>74.082</85+>
+    <Grand Total>1,012,115</Grand Total>
+  </row>
+  <row>
+    <VISN>22</VISN>
+    <VISN name>Desert Pacific Healthcare Network</VISN name>
+    <17-44>301.512</17-44>
+    <45-64>480.419</45-64>
+    <65-84>414.687</65-84>
+    <85+>84.040</85+>
+    <Grand Total>1,280,659</Grand Total>
+  </row>
+  <row>
+    <VISN>23</VISN>
+    <VISN name>VA Midwest Health Care Network</VISN name>
+    <17-44>195.940</17-44>
+    <45-64>396.258</45-64>
+    <65-84>355.805</65-84>
+    <85+>63.764</85+>
+    <Grand Total>1,011,767</Grand Total>
+  </row>
+</rows>

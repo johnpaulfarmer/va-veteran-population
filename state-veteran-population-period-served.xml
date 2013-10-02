@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+  <row>
+    <date>Alabama</date>
+    <all veterans>424.013</all veterans>
+    <wartime veterans>318.594</wartime veterans>
+    <peacetime veterans>105.419</peacetime veterans>
+    <wwii>34.023</wwii>
+    <vietnam era>47.160</vietnam era>
+    <gulf war era>142.667</gulf war era>
+    <pre-wwii>116.716</pre-wwii>
+    <wwii only>256</wwii only>
+    <wwi and kore>28.893</wwi and kore>
+    <wwii korean vietnam>3.974</wwii korean vietnam>
+    <between wwi korean>1.156</between wwi korean>
+    <koren era only>2.504</koren era only>
+    <korean conflict>36.248</korean conflict>
+    <korean and vietnam era>5.782</korean and vietnam era>
+    <between korean and vietnam era>37.710</between korean and vietnam era>
+    <vietnam era only>125.825</vietnam era only>
+    <vietnam era and gulf war era>8.689</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.215</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>64.950</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>53.846</gulf war era and post 911 era>
+    <post 911 era>22.810</post 911 era>
+    <gulf war era and post 911>30.156</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Alaska</date>
+    <all veterans>74.010</all veterans>
+    <wartime veterans>58.505</wartime veterans>
+    <peacetime veterans>15.505</peacetime veterans>
+    <wwii>2.285</wwii>
+    <vietnam era>3.439</vietnam era>
+    <gulf war era>23.322</gulf war era>
+    <pre-wwii>31.551</pre-wwii>
+    <wwii only>0</wwii only>
+    <wwi and kore>2.101</wwi and kore>
+    <wwii korean vietnam>66</wwii korean vietnam>
+    <between wwi korean>118</between wwi korean>
+    <koren era only>236</koren era only>
+    <korean conflict>2.695</korean conflict>
+    <korean and vietnam era>559</korean and vietnam era>
+    <between korean and vietnam era>3.794</between korean and vietnam era>
+    <vietnam era only>21.414</vietnam era only>
+    <vietnam era and gulf war era>1.132</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>99</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>11.475</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>10.730</gulf war era and post 911 era>
+    <post 911 era>10.780</post 911 era>
+    <gulf war era and post 911>8.811</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Arizona</date>
+    <all veterans>541.120</all veterans>
+    <wartime veterans>401.840</wartime veterans>
+    <peacetime veterans>139.280</peacetime veterans>
+    <wwii>51.590</wwii>
+    <vietnam era>64.962</vietnam era>
+    <gulf war era>175.427</gulf war era>
+    <pre-wwii>134.086</pre-wwii>
+    <wwii only>201</wwii only>
+    <wwi and kore>44.859</wwi and kore>
+    <wwii korean vietnam>4.409</wwii korean vietnam>
+    <between wwi korean>2.322</between wwi korean>
+    <koren era only>3.241</koren era only>
+    <korean conflict>51.644</korean conflict>
+    <korean and vietnam era>6.587</korean and vietnam era>
+    <between korean and vietnam era>55.991</between korean and vietnam era>
+    <vietnam era only>157.934</vietnam era only>
+    <vietnam era and gulf war era>7.539</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.046</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>79.846</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>65.036</gulf war era and post 911 era>
+    <post 911 era>24.644</post 911 era>
+    <gulf war era and post 911>35.821</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Arkansas</date>
+    <all veterans>256.665</all veterans>
+    <wartime veterans>189.440</wartime veterans>
+    <peacetime veterans>67.225</peacetime veterans>
+    <wwii>20.293</wwii>
+    <vietnam era>30.239</vietnam era>
+    <gulf war era>90.180</gulf war era>
+    <pre-wwii>61.028</pre-wwii>
+    <wwii only>434</wwii only>
+    <wwi and kore>17.526</wwi and kore>
+    <wwii korean vietnam>1.987</wwii korean vietnam>
+    <between wwi korean>779</between wwi korean>
+    <koren era only>2.290</koren era only>
+    <korean conflict>22.843</korean conflict>
+    <korean and vietnam era>4.629</korean and vietnam era>
+    <between korean and vietnam era>25.234</between korean and vietnam era>
+    <vietnam era only>80.648</vietnam era only>
+    <vietnam era and gulf war era>3.045</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.079</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>39.268</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>29.966</gulf war era and post 911 era>
+    <post 911 era>9.019</post 911 era>
+    <gulf war era and post 911>17.919</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>California</date>
+    <all veterans>1,942,775</all veterans>
+    <wartime veterans>1,457,875</wartime veterans>
+    <peacetime veterans>484.900</peacetime veterans>
+    <wwii>200.899</wwii>
+    <vietnam era>215.117</vietnam era>
+    <gulf war era>642.450</gulf war era>
+    <pre-wwii>469.943</pre-wwii>
+    <wwii only>4.061</wwii only>
+    <wwi and kore>178.305</wwi and kore>
+    <wwii korean vietnam>16.453</wwii korean vietnam>
+    <between wwi korean>6.140</between wwi korean>
+    <koren era only>11.011</koren era only>
+    <korean conflict>173.673</korean conflict>
+    <korean and vietnam era>18.851</korean and vietnam era>
+    <between korean and vietnam era>177.357</between korean and vietnam era>
+    <vietnam era only>594.511</vietnam era only>
+    <vietnam era and gulf war era>19.874</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>3.074</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>292.471</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>216.931</gulf war era and post 911 era>
+    <post 911 era>76.789</post 911 era>
+    <gulf war era and post 911>153.275</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Colorado</date>
+    <all veterans>405.244</all veterans>
+    <wartime veterans>311.129</wartime veterans>
+    <peacetime veterans>94.115</peacetime veterans>
+    <wwii>31.753</wwii>
+    <vietnam era>39.418</vietnam era>
+    <gulf war era>144.230</gulf war era>
+    <pre-wwii>116.639</pre-wwii>
+    <wwii only>192</wwii only>
+    <wwi and kore>27.326</wwi and kore>
+    <wwii korean vietnam>2.454</wwii korean vietnam>
+    <between wwi korean>1.974</between wwi korean>
+    <koren era only>1.959</koren era only>
+    <korean conflict>30.829</korean conflict>
+    <korean and vietnam era>4.161</korean and vietnam era>
+    <between korean and vietnam era>31.631</between korean and vietnam era>
+    <vietnam era only>127.746</vietnam era only>
+    <vietnam era and gulf war era>8.959</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.390</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>60.333</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>59.741</gulf war era and post 911 era>
+    <post 911 era>24.107</post 911 era>
+    <gulf war era and post 911>22.442</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Connecticut</date>
+    <all veterans>230.542</all veterans>
+    <wartime veterans>166.649</wartime veterans>
+    <peacetime veterans>63.893</peacetime veterans>
+    <wwii>28.723</wwii>
+    <vietnam era>30.826</vietnam era>
+    <gulf war era>74.886</gulf war era>
+    <pre-wwii>37.124</pre-wwii>
+    <wwii only>295</wwii only>
+    <wwi and kore>27.045</wwi and kore>
+    <wwii korean vietnam>1.422</wwii korean vietnam>
+    <between wwi korean>255</between wwi korean>
+    <koren era only>1.504</koren era only>
+    <korean conflict>28.365</korean conflict>
+    <korean and vietnam era>783</korean and vietnam era>
+    <between korean and vietnam era>30.766</between korean and vietnam era>
+    <vietnam era only>71.653</vietnam era only>
+    <vietnam era and gulf war era>1.919</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>275</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>31.327</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>17.257</gulf war era and post 911 era>
+    <post 911 era>5.312</post 911 era>
+    <gulf war era and post 911>12.361</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>D.C.</date>
+    <all veterans>33.070</all veterans>
+    <wartime veterans>24.661</wartime veterans>
+    <peacetime veterans>8.409</peacetime veterans>
+    <wwii>3.327</wwii>
+    <vietnam era>4.195</vietnam era>
+    <gulf war era>9.442</gulf war era>
+    <pre-wwii>8.909</pre-wwii>
+    <wwii only>54</wwii only>
+    <wwi and kore>2.988</wwi and kore>
+    <wwii korean vietnam>265</wwii korean vietnam>
+    <between wwi korean>73</between wwi korean>
+    <koren era only>146</koren era only>
+    <korean conflict>3.543</korean conflict>
+    <korean and vietnam era>313</korean and vietnam era>
+    <between korean and vietnam era>2.773</between korean and vietnam era>
+    <vietnam era only>8.569</vietnam era only>
+    <vietnam era and gulf war era>450</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>37</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>5.437</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>3.680</gulf war era and post 911 era>
+    <post 911 era>2.265</post 911 era>
+    <gulf war era and post 911>2.477</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Delaware</date>
+    <all veterans>79.967</all veterans>
+    <wartime veterans>58.883</wartime veterans>
+    <peacetime veterans>21.084</peacetime veterans>
+    <wwii>6.902</wwii>
+    <vietnam era>9.197</vietnam era>
+    <gulf war era>28.250</gulf war era>
+    <pre-wwii>18.472</pre-wwii>
+    <wwii only>0</wwii only>
+    <wwi and kore>6.090</wwi and kore>
+    <wwii korean vietnam>544</wwii korean vietnam>
+    <between wwi korean>267</between wwi korean>
+    <koren era only>366</koren era only>
+    <korean conflict>7.410</korean conflict>
+    <korean and vietnam era>976</korean and vietnam era>
+    <between korean and vietnam era>8.456</between korean and vietnam era>
+    <vietnam era only>25.124</vietnam era only>
+    <vietnam era and gulf war era>1.446</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>437</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>12.263</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>7.973</gulf war era and post 911 era>
+    <post 911 era>4.776</post 911 era>
+    <gulf war era and post 911>3.839</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Florida</date>
+    <all veterans>1,588,029</all veterans>
+    <wartime veterans>1,165,809</wartime veterans>
+    <peacetime veterans>422.220</peacetime veterans>
+    <wwii>175.121</wwii>
+    <vietnam era>193.684</vietnam era>
+    <gulf war era>502.274</gulf war era>
+    <pre-wwii>371.760</pre-wwii>
+    <wwii only>1.552</wwii only>
+    <wwi and kore>154.508</wwi and kore>
+    <wwii korean vietnam>14.538</wwii korean vietnam>
+    <between wwi korean>6.075</between wwi korean>
+    <koren era only>12.330</koren era only>
+    <korean conflict>153.404</korean conflict>
+    <korean and vietnam era>19.668</korean and vietnam era>
+    <between korean and vietnam era>162.575</between korean and vietnam era>
+    <vietnam era only>445.857</vietnam era only>
+    <vietnam era and gulf war era>26.682</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>3.992</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>245.763</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>188.997</gulf war era and post 911 era>
+    <post 911 era>73.075</post 911 era>
+    <gulf war era and post 911>79.013</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Georgia</date>
+    <all veterans>778.282</all veterans>
+    <wartime veterans>582.807</wartime veterans>
+    <peacetime veterans>195.475</peacetime veterans>
+    <wwii>46.198</wwii>
+    <vietnam era>69.654</vietnam era>
+    <gulf war era>256.545</gulf war era>
+    <pre-wwii>243.114</pre-wwii>
+    <wwii only>672</wwii only>
+    <wwi and kore>40.075</wwi and kore>
+    <wwii korean vietnam>4.316</wwii korean vietnam>
+    <between wwi korean>1.806</between wwi korean>
+    <koren era only>5.012</koren era only>
+    <korean conflict>53.849</korean conflict>
+    <korean and vietnam era>9.683</korean and vietnam era>
+    <between korean and vietnam era>58.239</between korean and vietnam era>
+    <vietnam era only>229.964</vietnam era only>
+    <vietnam era and gulf war era>13.587</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.505</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>131.552</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>121.567</gulf war era and post 911 era>
+    <post 911 era>46.785</post 911 era>
+    <gulf war era and post 911>59.669</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Hawaii</date>
+    <all veterans>116.539</all veterans>
+    <wartime veterans>90.933</wartime veterans>
+    <peacetime veterans>25.607</peacetime veterans>
+    <wwii>7.691</wwii>
+    <vietnam era>11.685</vietnam era>
+    <gulf war era>35.801</gulf war era>
+    <pre-wwii>40.941</pre-wwii>
+    <wwii only>63</wwii only>
+    <wwi and kore>6.760</wwi and kore>
+    <wwii korean vietnam>487</wwii korean vietnam>
+    <between wwi korean>444</between wwi korean>
+    <koren era only>728</koren era only>
+    <korean conflict>9.323</korean conflict>
+    <korean and vietnam era>1.431</korean and vietnam era>
+    <between korean and vietnam era>10.099</between korean and vietnam era>
+    <vietnam era only>31.547</vietnam era only>
+    <vietnam era and gulf war era>1.747</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>633</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>14.717</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>11.267</gulf war era and post 911 era>
+    <post 911 era>12.570</post 911 era>
+    <gulf war era and post 911>14.724</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Idaho</date>
+    <all veterans>138.546</all veterans>
+    <wartime veterans>102.476</wartime veterans>
+    <peacetime veterans>36.069</peacetime veterans>
+    <wwii>11.114</wwii>
+    <vietnam era>13.272</vietnam era>
+    <gulf war era>43.370</gulf war era>
+    <pre-wwii>40.068</pre-wwii>
+    <wwii only>119</wwii only>
+    <wwi and kore>10.274</wwi and kore>
+    <wwii korean vietnam>645</wwii korean vietnam>
+    <between wwi korean>196</between wwi korean>
+    <koren era only>1.209</koren era only>
+    <korean conflict>10.825</korean conflict>
+    <korean and vietnam era>1.607</korean and vietnam era>
+    <between korean and vietnam era>13.406</between korean and vietnam era>
+    <vietnam era only>38.863</vietnam era only>
+    <vietnam era and gulf war era>2.352</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>352</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>21.335</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>16.028</gulf war era and post 911 era>
+    <post 911 era>8.206</post 911 era>
+    <gulf war era and post 911>13.130</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Illinois</date>
+    <all veterans>803.964</all veterans>
+    <wartime veterans>596.520</wartime veterans>
+    <peacetime veterans>207.444</peacetime veterans>
+    <wwii>82.371</wwii>
+    <vietnam era>95.900</vietnam era>
+    <gulf war era>263.094</gulf war era>
+    <pre-wwii>170.197</pre-wwii>
+    <wwii only>489</wwii only>
+    <wwi and kore>78.065</wwi and kore>
+    <wwii korean vietnam>3.901</wwii korean vietnam>
+    <between wwi korean>406</between wwi korean>
+    <koren era only>5.235</koren era only>
+    <korean conflict>87.941</korean conflict>
+    <korean and vietnam era>3.652</korean and vietnam era>
+    <between korean and vietnam era>94.021</between korean and vietnam era>
+    <vietnam era only>252.359</vietnam era only>
+    <vietnam era and gulf war era>5.746</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>931</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>107.699</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>85.378</gulf war era and post 911 era>
+    <post 911 era>24.970</post 911 era>
+    <gulf war era and post 911>53.171</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Indiana</date>
+    <all veterans>516.673</all veterans>
+    <wartime veterans>374.459</wartime veterans>
+    <peacetime veterans>142.214</peacetime veterans>
+    <wwii>43.923</wwii>
+    <vietnam era>54.843</vietnam era>
+    <gulf war era>170.543</gulf war era>
+    <pre-wwii>114.660</pre-wwii>
+    <wwii only>578</wwii only>
+    <wwi and kore>40.236</wwi and kore>
+    <wwii korean vietnam>3.530</wwii korean vietnam>
+    <between wwi korean>157</between wwi korean>
+    <koren era only>3.190</koren era only>
+    <korean conflict>49.070</korean conflict>
+    <korean and vietnam era>2.087</korean and vietnam era>
+    <between korean and vietnam era>58.309</between korean and vietnam era>
+    <vietnam era only>164.719</vietnam era only>
+    <vietnam era and gulf war era>3.428</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>153</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>80.137</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>61.144</gulf war era and post 911 era>
+    <post 911 era>13.727</post 911 era>
+    <gulf war era and post 911>36.209</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Iowa</date>
+    <all veterans>247.587</all veterans>
+    <wartime veterans>186.927</wartime veterans>
+    <peacetime veterans>60.660</peacetime veterans>
+    <wwii>23.485</wwii>
+    <vietnam era>30.675</vietnam era>
+    <gulf war era>87.398</gulf war era>
+    <pre-wwii>51.029</pre-wwii>
+    <wwii only>290</wwii only>
+    <wwi and kore>22.025</wwi and kore>
+    <wwii korean vietnam>1.299</wwii korean vietnam>
+    <between wwi korean>161</between wwi korean>
+    <koren era only>1.036</koren era only>
+    <korean conflict>28.288</korean conflict>
+    <korean and vietnam era>927</korean and vietnam era>
+    <between korean and vietnam era>27.118</between korean and vietnam era>
+    <vietnam era only>83.199</vietnam era only>
+    <vietnam era and gulf war era>2.772</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>340</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>32.217</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>24.986</gulf war era and post 911 era>
+    <post 911 era>7.324</post 911 era>
+    <gulf war era and post 911>15.607</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Kansas</date>
+    <all veterans>233.342</all veterans>
+    <wartime veterans>182.163</wartime veterans>
+    <peacetime veterans>51.178</peacetime veterans>
+    <wwii>23.052</wwii>
+    <vietnam era>26.592</vietnam era>
+    <gulf war era>80.699</gulf war era>
+    <pre-wwii>61.391</pre-wwii>
+    <wwii only>233</wwii only>
+    <wwi and kore>20.600</wwi and kore>
+    <wwii korean vietnam>1.883</wwii korean vietnam>
+    <between wwi korean>569</between wwi korean>
+    <koren era only>1.362</koren era only>
+    <korean conflict>22.058</korean conflict>
+    <korean and vietnam era>2.081</korean and vietnam era>
+    <between korean and vietnam era>20.904</between korean and vietnam era>
+    <vietnam era only>73.581</vietnam era only>
+    <vietnam era and gulf war era>3.975</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>492</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>28.680</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>28.677</gulf war era and post 911 era>
+    <post 911 era>11.296</post 911 era>
+    <gulf war era and post 911>16.951</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Kentucky</date>
+    <all veterans>348.089</all veterans>
+    <wartime veterans>252.027</wartime veterans>
+    <peacetime veterans>96.062</peacetime veterans>
+    <wwii>27.046</wwii>
+    <vietnam era>36.037</vietnam era>
+    <gulf war era>121.785</gulf war era>
+    <pre-wwii>79.452</pre-wwii>
+    <wwii only>468</wwii only>
+    <wwi and kore>24.307</wwi and kore>
+    <wwii korean vietnam>1.787</wwii korean vietnam>
+    <between wwi korean>953</between wwi korean>
+    <koren era only>2.752</koren era only>
+    <korean conflict>29.942</korean conflict>
+    <korean and vietnam era>3.356</korean and vietnam era>
+    <between korean and vietnam era>35.153</between korean and vietnam era>
+    <vietnam era only>112.231</vietnam era only>
+    <vietnam era and gulf war era>4.445</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>800</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>57.689</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>39.288</gulf war era and post 911 era>
+    <post 911 era>12.977</post 911 era>
+    <gulf war era and post 911>21.942</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Louisiana</date>
+    <all veterans>326.454</all veterans>
+    <wartime veterans>244.883</wartime veterans>
+    <peacetime veterans>81.572</peacetime veterans>
+    <wwii>29.073</wwii>
+    <vietnam era>32.298</vietnam era>
+    <gulf war era>109.868</gulf war era>
+    <pre-wwii>84.655</pre-wwii>
+    <wwii only>276</wwii only>
+    <wwi and kore>26.426</wwi and kore>
+    <wwii korean vietnam>2.013</wwii korean vietnam>
+    <between wwi korean>634</between wwi korean>
+    <koren era only>2.033</koren era only>
+    <korean conflict>27.041</korean conflict>
+    <korean and vietnam era>2.611</korean and vietnam era>
+    <between korean and vietnam era>32.384</between korean and vietnam era>
+    <vietnam era only>101.503</vietnam era only>
+    <vietnam era and gulf war era>4.281</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>839</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>46.878</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>43.426</gulf war era and post 911 era>
+    <post 911 era>12.974</post 911 era>
+    <gulf war era and post 911>23.135</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Maine</date>
+    <all veterans>135.118</all veterans>
+    <wartime veterans>98.908</wartime veterans>
+    <peacetime veterans>36.210</peacetime veterans>
+    <wwii>13.597</wwii>
+    <vietnam era>15.705</vietnam era>
+    <gulf war era>46.640</gulf war era>
+    <pre-wwii>27.524</pre-wwii>
+    <wwii only>99</wwii only>
+    <wwi and kore>12.461</wwi and kore>
+    <wwii korean vietnam>808</wwii korean vietnam>
+    <between wwi korean>328</between wwi korean>
+    <koren era only>471</koren era only>
+    <korean conflict>13.359</korean conflict>
+    <korean and vietnam era>1.209</korean and vietnam era>
+    <between korean and vietnam era>14.337</between korean and vietnam era>
+    <vietnam era only>43.218</vietnam era only>
+    <vietnam era and gulf war era>1.331</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>553</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>21.304</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>13.380</gulf war era and post 911 era>
+    <post 911 era>5.116</post 911 era>
+    <gulf war era and post 911>7.143</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Maryland</date>
+    <all veterans>464.207</all veterans>
+    <wartime veterans>344.479</wartime veterans>
+    <peacetime veterans>119.728</peacetime veterans>
+    <wwii>40.478</wwii>
+    <vietnam era>42.234</vietnam era>
+    <gulf war era>141.616</gulf war era>
+    <pre-wwii>137.743</pre-wwii>
+    <wwii only>307</wwii only>
+    <wwi and kore>36.540</wwi and kore>
+    <wwii korean vietnam>2.700</wwii korean vietnam>
+    <between wwi korean>1.238</between wwi korean>
+    <koren era only>2.520</koren era only>
+    <korean conflict>35.338</korean conflict>
+    <korean and vietnam era>2.957</korean and vietnam era>
+    <between korean and vietnam era>40.997</between korean and vietnam era>
+    <vietnam era only>127.962</vietnam era only>
+    <vietnam era and gulf war era>7.633</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.824</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>75.904</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>57.288</gulf war era and post 911 era>
+    <post 911 era>36.405</post 911 era>
+    <gulf war era and post 911>34.591</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Massachusetts</date>
+    <all veterans>416.443</all veterans>
+    <wartime veterans>303.311</wartime veterans>
+    <peacetime veterans>113.132</peacetime veterans>
+    <wwii>55.489</wwii>
+    <vietnam era>55.513</vietnam era>
+    <gulf war era>132.915</gulf war era>
+    <pre-wwii>70.133</pre-wwii>
+    <wwii only>875</wwii only>
+    <wwi and kore>50.729</wwi and kore>
+    <wwii korean vietnam>4.102</wwii korean vietnam>
+    <between wwi korean>658</between wwi korean>
+    <koren era only>2.880</koren era only>
+    <korean conflict>47.989</korean conflict>
+    <korean and vietnam era>2.763</korean and vietnam era>
+    <between korean and vietnam era>52.986</between korean and vietnam era>
+    <vietnam era only>126.937</vietnam era only>
+    <vietnam era and gulf war era>1.742</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>815</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>56.391</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>34.490</gulf war era and post 911 era>
+    <post 911 era>8.259</post 911 era>
+    <gulf war era and post 911>24.827</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Michigan</date>
+    <all veterans>719.393</all veterans>
+    <wartime veterans>523.899</wartime veterans>
+    <peacetime veterans>195.494</peacetime veterans>
+    <wwii>65.129</wwii>
+    <vietnam era>88.129</vietnam era>
+    <gulf war era>262.760</gulf war era>
+    <pre-wwii>120.717</pre-wwii>
+    <wwii only>644</wwii only>
+    <wwi and kore>61.331</wwi and kore>
+    <wwii korean vietnam>3.491</wwii korean vietnam>
+    <between wwi korean>307</between wwi korean>
+    <koren era only>4.568</koren era only>
+    <korean conflict>81.361</korean conflict>
+    <korean and vietnam era>2.969</korean and vietnam era>
+    <between korean and vietnam era>89.272</between korean and vietnam era>
+    <vietnam era only>253.723</vietnam era only>
+    <vietnam era and gulf war era>4.681</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.080</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>101.011</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>72.911</gulf war era and post 911 era>
+    <post 911 era>14.961</post 911 era>
+    <gulf war era and post 911>27.085</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Minnesota</date>
+    <all veterans>386.598</all veterans>
+    <wartime veterans>284.846</wartime veterans>
+    <peacetime veterans>101.752</peacetime veterans>
+    <wwii>37.666</wwii>
+    <vietnam era>43.232</vietnam era>
+    <gulf war era>134.133</gulf war era>
+    <pre-wwii>77.522</pre-wwii>
+    <wwii only>456</wwii only>
+    <wwi and kore>34.988</wwi and kore>
+    <wwii korean vietnam>2.349</wwii korean vietnam>
+    <between wwi korean>329</between wwi korean>
+    <koren era only>1.660</koren era only>
+    <korean conflict>39.273</korean conflict>
+    <korean and vietnam era>1.281</korean and vietnam era>
+    <between korean and vietnam era>45.997</between korean and vietnam era>
+    <vietnam era only>129.103</vietnam era only>
+    <vietnam era and gulf war era>2.947</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>472</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>53.639</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>37.373</gulf war era and post 911 era>
+    <post 911 era>9.713</post 911 era>
+    <gulf war era and post 911>27.017</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Mississippi</date>
+    <all veterans>230.794</all veterans>
+    <wartime veterans>168.912</wartime veterans>
+    <peacetime veterans>61.882</peacetime veterans>
+    <wwii>18.690</wwii>
+    <vietnam era>22.649</vietnam era>
+    <gulf war era>73.825</gulf war era>
+    <pre-wwii>62.612</pre-wwii>
+    <wwii only>116</wwii only>
+    <wwi and kore>17.444</wwi and kore>
+    <wwii korean vietnam>1.061</wwii korean vietnam>
+    <between wwi korean>185</between wwi korean>
+    <koren era only>1.829</koren era only>
+    <korean conflict>18.618</korean conflict>
+    <korean and vietnam era>2.784</korean and vietnam era>
+    <between korean and vietnam era>22.115</between korean and vietnam era>
+    <vietnam era only>66.207</vietnam era only>
+    <vietnam era and gulf war era>4.070</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>579</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>37.822</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>25.582</gulf war era and post 911 era>
+    <post 911 era>9.150</post 911 era>
+    <gulf war era and post 911>23.230</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Missouri</date>
+    <all veterans>521.526</all veterans>
+    <wartime veterans>388.582</wartime veterans>
+    <peacetime veterans>132.945</peacetime veterans>
+    <wwii>46.712</wwii>
+    <vietnam era>60.577</vietnam era>
+    <gulf war era>183.133</gulf war era>
+    <pre-wwii>114.052</pre-wwii>
+    <wwii only>499</wwii only>
+    <wwi and kore>42.723</wwi and kore>
+    <wwii korean vietnam>3.394</wwii korean vietnam>
+    <between wwi korean>595</between wwi korean>
+    <koren era only>3.252</koren era only>
+    <korean conflict>53.067</korean conflict>
+    <korean and vietnam era>3.520</korean and vietnam era>
+    <between korean and vietnam era>53.702</between korean and vietnam era>
+    <vietnam era only>171.230</vietnam era only>
+    <vietnam era and gulf war era>6.345</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.442</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>75.492</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>59.326</gulf war era and post 911 era>
+    <post 911 era>16.937</post 911 era>
+    <gulf war era and post 911>30.002</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Montana</date>
+    <all veterans>103.590</all veterans>
+    <wartime veterans>78.107</wartime veterans>
+    <peacetime veterans>25.483</peacetime veterans>
+    <wwii>7.499</wwii>
+    <vietnam era>11.117</vietnam era>
+    <gulf war era>35.310</gulf war era>
+    <pre-wwii>27.069</pre-wwii>
+    <wwii only>93</wwii only>
+    <wwi and kore>6.826</wwi and kore>
+    <wwii korean vietnam>561</wwii korean vietnam>
+    <between wwi korean>112</between wwi korean>
+    <koren era only>816</koren era only>
+    <korean conflict>9.903</korean conflict>
+    <korean and vietnam era>541</korean and vietnam era>
+    <between korean and vietnam era>10.806</between korean and vietnam era>
+    <vietnam era only>33.095</vietnam era only>
+    <vietnam era and gulf war era>1.486</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>75</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>13.768</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>11.649</gulf war era and post 911 era>
+    <post 911 era>5.562</post 911 era>
+    <gulf war era and post 911>8.297</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Nebraska</date>
+    <all veterans>145.399</all veterans>
+    <wartime veterans>112.305</wartime veterans>
+    <peacetime veterans>33.094</peacetime veterans>
+    <wwii>13.302</wwii>
+    <vietnam era>17.340</vietnam era>
+    <gulf war era>50.036</gulf war era>
+    <pre-wwii>37.270</pre-wwii>
+    <wwii only>282</wwii only>
+    <wwi and kore>12.141</wwi and kore>
+    <wwii korean vietnam>870</wwii korean vietnam>
+    <between wwi korean>291</between wwi korean>
+    <koren era only>1.019</koren era only>
+    <korean conflict>15.239</korean conflict>
+    <korean and vietnam era>939</korean and vietnam era>
+    <between korean and vietnam era>14.326</between korean and vietnam era>
+    <vietnam era only>45.555</vietnam era only>
+    <vietnam era and gulf war era>3.065</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>186</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>17.467</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>16.633</gulf war era and post 911 era>
+    <post 911 era>8.097</post 911 era>
+    <gulf war era and post 911>9.289</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Nevada</date>
+    <all veterans>233.302</all veterans>
+    <wartime veterans>172.913</wartime veterans>
+    <peacetime veterans>60.388</peacetime veterans>
+    <wwii>16.150</wwii>
+    <vietnam era>24.726</vietnam era>
+    <gulf war era>82.822</gulf war era>
+    <pre-wwii>60.895</pre-wwii>
+    <wwii only>538</wwii only>
+    <wwi and kore>14.242</wwi and kore>
+    <wwii korean vietnam>951</wwii korean vietnam>
+    <between wwi korean>956</between wwi korean>
+    <koren era only>908</koren era only>
+    <korean conflict>19.243</korean conflict>
+    <korean and vietnam era>3.575</korean and vietnam era>
+    <between korean and vietnam era>20.948</between korean and vietnam era>
+    <vietnam era only>73.050</vietnam era only>
+    <vietnam era and gulf war era>4.708</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>533</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>37.994</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>30.284</gulf war era and post 911 era>
+    <post 911 era>8.521</post 911 era>
+    <gulf war era and post 911>16.850</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>New Hampshire</date>
+    <all veterans>117.554</all veterans>
+    <wartime veterans>84.296</wartime veterans>
+    <peacetime veterans>33.258</peacetime veterans>
+    <wwii>10.794</wwii>
+    <vietnam era>12.489</vietnam era>
+    <gulf war era>42.819</gulf war era>
+    <pre-wwii>21.844</pre-wwii>
+    <wwii only>110</wwii only>
+    <wwi and kore>9.998</wwi and kore>
+    <wwii korean vietnam>580</wwii korean vietnam>
+    <between wwi korean>216</between wwi korean>
+    <koren era only>613</koren era only>
+    <korean conflict>10.396</korean conflict>
+    <korean and vietnam era>1.297</korean and vietnam era>
+    <between korean and vietnam era>11.929</between korean and vietnam era>
+    <vietnam era only>39.965</vietnam era only>
+    <vietnam era and gulf war era>1.058</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>283</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>20.606</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>12.077</gulf war era and post 911 era>
+    <post 911 era>3.496</post 911 era>
+    <gulf war era and post 911>4.930</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>New Jersey</date>
+    <all veterans>475.870</all veterans>
+    <wartime veterans>344.943</wartime veterans>
+    <peacetime veterans>130.928</peacetime veterans>
+    <wwii>59.171</wwii>
+    <vietnam era>66.634</vietnam era>
+    <gulf war era>151.859</gulf war era>
+    <pre-wwii>76.286</pre-wwii>
+    <wwii only>890</wwii only>
+    <wwi and kore>55.899</wwi and kore>
+    <wwii korean vietnam>2.697</wwii korean vietnam>
+    <between wwi korean>574</between wwi korean>
+    <koren era only>3.763</koren era only>
+    <korean conflict>61.939</korean conflict>
+    <korean and vietnam era>1.423</korean and vietnam era>
+    <between korean and vietnam era>62.369</between korean and vietnam era>
+    <vietnam era only>146.124</vietnam era only>
+    <vietnam era and gulf war era>2.900</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>837</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>63.906</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>37.786</gulf war era and post 911 era>
+    <post 911 era>10.955</post 911 era>
+    <gulf war era and post 911>23.807</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>New Mexico</date>
+    <all veterans>174.470</all veterans>
+    <wartime veterans>128.432</wartime veterans>
+    <peacetime veterans>46.038</peacetime veterans>
+    <wwii>13.892</wwii>
+    <vietnam era>18.865</vietnam era>
+    <gulf war era>60.080</gulf war era>
+    <pre-wwii>42.815</pre-wwii>
+    <wwii only>159</wwii only>
+    <wwi and kore>11.872</wwi and kore>
+    <wwii korean vietnam>1.373</wwii korean vietnam>
+    <between wwi korean>646</between wwi korean>
+    <koren era only>1.129</koren era only>
+    <korean conflict>14.711</korean conflict>
+    <korean and vietnam era>2.134</korean and vietnam era>
+    <between korean and vietnam era>15.240</between korean and vietnam era>
+    <vietnam era only>54.880</vietnam era only>
+    <vietnam era and gulf war era>1.929</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>491</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>29.510</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>19.058</gulf war era and post 911 era>
+    <post 911 era>8.092</post 911 era>
+    <gulf war era and post 911>13.245</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>New York</date>
+    <all veterans>983.844</all veterans>
+    <wartime veterans>710.879</wartime veterans>
+    <peacetime veterans>272.965</peacetime veterans>
+    <wwii>118.222</wwii>
+    <vietnam era>122.921</vietnam era>
+    <gulf war era>308.474</gulf war era>
+    <pre-wwii>175.911</pre-wwii>
+    <wwii only>2.275</wwii only>
+    <wwi and kore>112.054</wwi and kore>
+    <wwii korean vietnam>5.589</wwii korean vietnam>
+    <between wwi korean>579</between wwi korean>
+    <koren era only>7.454</koren era only>
+    <korean conflict>114.360</korean conflict>
+    <korean and vietnam era>2.393</korean and vietnam era>
+    <between korean and vietnam era>120.135</between korean and vietnam era>
+    <vietnam era only>299.993</vietnam era only>
+    <vietnam era and gulf war era>4.295</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.214</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>143.101</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>88.269</gulf war era and post 911 era>
+    <post 911 era>22.363</post 911 era>
+    <gulf war era and post 911>59.771</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>North Carolina</date>
+    <all veterans>776.683</all veterans>
+    <wartime veterans>572.604</wartime veterans>
+    <peacetime veterans>204.079</peacetime veterans>
+    <wwii>60.290</wwii>
+    <vietnam era>75.321</vietnam era>
+    <gulf war era>261.351</gulf war era>
+    <pre-wwii>208.421</pre-wwii>
+    <wwii only>565</wwii only>
+    <wwi and kore>54.663</wwi and kore>
+    <wwii korean vietnam>3.552</wwii korean vietnam>
+    <between wwi korean>2.075</between wwi korean>
+    <koren era only>4.579</koren era only>
+    <korean conflict>59.833</korean conflict>
+    <korean and vietnam era>9.861</korean and vietnam era>
+    <between korean and vietnam era>72.826</between korean and vietnam era>
+    <vietnam era only>234.199</vietnam era only>
+    <vietnam era and gulf war era>13.510</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.707</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>126.109</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>103.187</gulf war era and post 911 era>
+    <post 911 era>42.665</post 911 era>
+    <gulf war era and post 911>47.352</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>North Dakota</date>
+    <all veterans>56.696</all veterans>
+    <wartime veterans>44.293</wartime veterans>
+    <peacetime veterans>12.402</peacetime veterans>
+    <wwii>4.449</wwii>
+    <vietnam era>5.660</vietnam era>
+    <gulf war era>18.348</gulf war era>
+    <pre-wwii>18.098</pre-wwii>
+    <wwii only>70</wwii only>
+    <wwi and kore>4.100</wwi and kore>
+    <wwii korean vietnam>173</wwii korean vietnam>
+    <between wwi korean>176</between wwi korean>
+    <koren era only>162</koren era only>
+    <korean conflict>5.127</korean conflict>
+    <korean and vietnam era>184</korean and vietnam era>
+    <between korean and vietnam era>6.043</between korean and vietnam era>
+    <vietnam era only>16.436</vietnam era only>
+    <vietnam era and gulf war era>1.487</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>66</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>6.128</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>7.206</gulf war era and post 911 era>
+    <post 911 era>2.485</post 911 era>
+    <gulf war era and post 911>6.854</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Ohio</date>
+    <all veterans>943.046</all veterans>
+    <wartime veterans>675.576</wartime veterans>
+    <peacetime veterans>267.470</peacetime veterans>
+    <wwii>83.701</wwii>
+    <vietnam era>105.795</vietnam era>
+    <gulf war era>325.482</gulf war era>
+    <pre-wwii>178.757</pre-wwii>
+    <wwii only>1.560</wwii only>
+    <wwi and kore>79.010</wwi and kore>
+    <wwii korean vietnam>3.901</wwii korean vietnam>
+    <between wwi korean>791</between wwi korean>
+    <koren era only>6.856</koren era only>
+    <korean conflict>97.078</korean conflict>
+    <korean and vietnam era>4.026</korean and vietnam era>
+    <between korean and vietnam era>115.679</between korean and vietnam era>
+    <vietnam era only>312.014</vietnam era only>
+    <vietnam era and gulf war era>7.389</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.263</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>143.376</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>98.395</gulf war era and post 911 era>
+    <post 911 era>24.694</post 911 era>
+    <gulf war era and post 911>47.016</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Oklahoma</date>
+    <all veterans>347.374</all veterans>
+    <wartime veterans>265.697</wartime veterans>
+    <peacetime veterans>81.677</peacetime veterans>
+    <wwii>28.390</wwii>
+    <vietnam era>36.944</vietnam era>
+    <gulf war era>124.972</gulf war era>
+    <pre-wwii>91.163</pre-wwii>
+    <wwii only>517</wwii only>
+    <wwi and kore>24.866</wwi and kore>
+    <wwii korean vietnam>2.640</wwii korean vietnam>
+    <between wwi korean>884</between wwi korean>
+    <koren era only>2.352</koren era only>
+    <korean conflict>28.742</korean conflict>
+    <korean and vietnam era>4.678</korean and vietnam era>
+    <between korean and vietnam era>33.107</between korean and vietnam era>
+    <vietnam era only>112.725</vietnam era only>
+    <vietnam era and gulf war era>5.802</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>883</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>45.701</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>40.682</gulf war era and post 911 era>
+    <post 911 era>17.216</post 911 era>
+    <gulf war era and post 911>26.580</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Oregon</date>
+    <all veterans>339.891</all veterans>
+    <wartime veterans>251.173</wartime veterans>
+    <peacetime veterans>88.718</peacetime veterans>
+    <wwii>36.086</wwii>
+    <vietnam era>34.060</vietnam era>
+    <gulf war era>127.150</gulf war era>
+    <pre-wwii>65.172</pre-wwii>
+    <wwii only>175</wwii only>
+    <wwi and kore>32.464</wwi and kore>
+    <wwii korean vietnam>2.859</wwii korean vietnam>
+    <between wwi korean>763</between wwi korean>
+    <koren era only>1.371</koren era only>
+    <korean conflict>27.733</korean conflict>
+    <korean and vietnam era>2.704</korean and vietnam era>
+    <between korean and vietnam era>38.585</between korean and vietnam era>
+    <vietnam era only>119.476</vietnam era only>
+    <vietnam era and gulf war era>3.847</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>359</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>48.587</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>37.726</gulf war era and post 911 era>
+    <post 911 era>9.259</post 911 era>
+    <gulf war era and post 911>13.982</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Pennsylvania</date>
+    <all veterans>1,035,566</all veterans>
+    <wartime veterans>755.069</wartime veterans>
+    <peacetime veterans>280.496</peacetime veterans>
+    <wwii>121.893</wwii>
+    <vietnam era>133.046</vietnam era>
+    <gulf war era>340.557</gulf war era>
+    <pre-wwii>183.487</pre-wwii>
+    <wwii only>1.195</wwii only>
+    <wwi and kore>113.055</wwi and kore>
+    <wwii korean vietnam>7.049</wwii korean vietnam>
+    <between wwi korean>1.789</between wwi korean>
+    <koren era only>8.130</koren era only>
+    <korean conflict>120.488</korean conflict>
+    <korean and vietnam era>3.720</korean and vietnam era>
+    <between korean and vietnam era>131.651</between korean and vietnam era>
+    <vietnam era only>325.482</vietnam era only>
+    <vietnam era and gulf war era>8.513</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.053</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>139.520</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>92.409</gulf war era and post 911 era>
+    <post 911 era>26.801</post 911 era>
+    <gulf war era and post 911>54.711</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Rhode Island</date>
+    <all veterans>75.968</all veterans>
+    <wartime veterans>55.008</wartime veterans>
+    <peacetime veterans>20.959</peacetime veterans>
+    <wwii>9.505</wwii>
+    <vietnam era>10.182</vietnam era>
+    <gulf war era>24.561</gulf war era>
+    <pre-wwii>13.080</pre-wwii>
+    <wwii only>0</wwii only>
+    <wwi and kore>8.824</wwi and kore>
+    <wwii korean vietnam>581</wwii korean vietnam>
+    <between wwi korean>101</between wwi korean>
+    <koren era only>590</koren era only>
+    <korean conflict>8.760</korean conflict>
+    <korean and vietnam era>741</korean and vietnam era>
+    <between korean and vietnam era>8.323</between korean and vietnam era>
+    <vietnam era only>22.922</vietnam era only>
+    <vietnam era and gulf war era>798</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>0</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>12.047</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>4.935</gulf war era and post 911 era>
+    <post 911 era>2.727</post 911 era>
+    <gulf war era and post 911>4.619</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>South Carolina</date>
+    <all veterans>422.297</all veterans>
+    <wartime veterans>316.639</wartime veterans>
+    <peacetime veterans>105.658</peacetime veterans>
+    <wwii>29.592</wwii>
+    <vietnam era>41.856</vietnam era>
+    <gulf war era>143.190</gulf war era>
+    <pre-wwii>120.409</pre-wwii>
+    <wwii only>328</wwii only>
+    <wwi and kore>26.630</wwi and kore>
+    <wwii korean vietnam>2.116</wwii korean vietnam>
+    <between wwi korean>847</between wwi korean>
+    <koren era only>2.348</koren era only>
+    <korean conflict>34.143</korean conflict>
+    <korean and vietnam era>4.751</korean and vietnam era>
+    <between korean and vietnam era>38.449</between korean and vietnam era>
+    <vietnam era only>127.744</vietnam era only>
+    <vietnam era and gulf war era>8.105</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.743</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>64.534</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>59.096</gulf war era and post 911 era>
+    <post 911 era>21.523</post 911 era>
+    <gulf war era and post 911>29.942</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>South Dakota</date>
+    <all veterans>76.320</all veterans>
+    <wartime veterans>59.216</wartime veterans>
+    <peacetime veterans>17.104</peacetime veterans>
+    <wwii>5.734</wwii>
+    <vietnam era>8.447</vietnam era>
+    <gulf war era>25.964</gulf war era>
+    <pre-wwii>22.228</pre-wwii>
+    <wwii only>36</wwii only>
+    <wwi and kore>5.236</wwi and kore>
+    <wwii korean vietnam>451</wwii korean vietnam>
+    <between wwi korean>46</between wwi korean>
+    <koren era only>397</koren era only>
+    <korean conflict>7.369</korean conflict>
+    <korean and vietnam era>580</korean and vietnam era>
+    <between korean and vietnam era>8.048</between korean and vietnam era>
+    <vietnam era only>23.305</vietnam era only>
+    <vietnam era and gulf war era>1.522</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>511</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>8.623</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>9.833</gulf war era and post 911 era>
+    <post 911 era>3.451</post 911 era>
+    <gulf war era and post 911>6.910</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Tennessee</date>
+    <all veterans>533.803</all veterans>
+    <wartime veterans>389.487</wartime veterans>
+    <peacetime veterans>144.317</peacetime veterans>
+    <wwii>40.774</wwii>
+    <vietnam era>57.127</vietnam era>
+    <gulf war era>189.340</gulf war era>
+    <pre-wwii>126.567</pre-wwii>
+    <wwii only>589</wwii only>
+    <wwi and kore>36.715</wwi and kore>
+    <wwii korean vietnam>2.376</wwii korean vietnam>
+    <between wwi korean>1.682</between wwi korean>
+    <koren era only>2.809</koren era only>
+    <korean conflict>46.672</korean conflict>
+    <korean and vietnam era>6.396</korean and vietnam era>
+    <between korean and vietnam era>53.475</between korean and vietnam era>
+    <vietnam era only>169.078</vietnam era only>
+    <vietnam era and gulf war era>10.687</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.496</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>87.443</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>61.446</gulf war era and post 911 era>
+    <post 911 era>21.129</post 911 era>
+    <gulf war era and post 911>31.808</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Texas</date>
+    <all veterans>1,689,759</all veterans>
+    <wartime veterans>1,294,992</wartime veterans>
+    <peacetime veterans>394.768</peacetime veterans>
+    <wwii>131.708</wwii>
+    <vietnam era>159.469</vietnam era>
+    <gulf war era>578.003</gulf war era>
+    <pre-wwii>508.353</pre-wwii>
+    <wwii only>1.767</wwii only>
+    <wwi and kore>113.071</wwi and kore>
+    <wwii korean vietnam>11.201</wwii korean vietnam>
+    <between wwi korean>7.436</between wwi korean>
+    <koren era only>7.531</koren era only>
+    <korean conflict>117.833</korean conflict>
+    <korean and vietnam era>22.999</korean and vietnam era>
+    <between korean and vietnam era>140.155</between korean and vietnam era>
+    <vietnam era only>514.099</vietnam era only>
+    <vietnam era and gulf war era>28.456</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>5.012</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>245.314</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>257.088</gulf war era and post 911 era>
+    <post 911 era>88.090</post 911 era>
+    <gulf war era and post 911>129.706</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Utah</date>
+    <all veterans>153.901</all veterans>
+    <wartime veterans>119.079</wartime veterans>
+    <peacetime veterans>34.821</peacetime veterans>
+    <wwii>14.858</wwii>
+    <vietnam era>16.548</vietnam era>
+    <gulf war era>47.292</gulf war era>
+    <pre-wwii>44.507</pre-wwii>
+    <wwii only>184</wwii only>
+    <wwi and kore>13.910</wwi and kore>
+    <wwii korean vietnam>714</wwii korean vietnam>
+    <between wwi korean>234</between wwi korean>
+    <koren era only>1.000</koren era only>
+    <korean conflict>14.557</korean conflict>
+    <korean and vietnam era>1.043</korean and vietnam era>
+    <between korean and vietnam era>14.978</between korean and vietnam era>
+    <vietnam era only>44.114</vietnam era only>
+    <vietnam era and gulf war era>1.739</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>162</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>18.659</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>17.531</gulf war era and post 911 era>
+    <post 911 era>8.206</post 911 era>
+    <gulf war era and post 911>16.870</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Vermont</date>
+    <all veterans>52.090</all veterans>
+    <wartime veterans>36.597</wartime veterans>
+    <peacetime veterans>15.493</peacetime veterans>
+    <wwii>5.049</wwii>
+    <vietnam era>5.500</vietnam era>
+    <gulf war era>18.331</gulf war era>
+    <pre-wwii>9.384</pre-wwii>
+    <wwii only>120</wwii only>
+    <wwi and kore>4.692</wwi and kore>
+    <wwii korean vietnam>282</wwii korean vietnam>
+    <between wwi korean>75</between wwi korean>
+    <koren era only>512</koren era only>
+    <korean conflict>4.829</korean conflict>
+    <korean and vietnam era>315</korean and vietnam era>
+    <between korean and vietnam era>6.537</between korean and vietnam era>
+    <vietnam era only>17.020</vietnam era only>
+    <vietnam era and gulf war era>800</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>121</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>8.324</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>4.675</gulf war era and post 911 era>
+    <post 911 era>1.533</post 911 era>
+    <gulf war era and post 911>2.254</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Virginia</date>
+    <all veterans>827.810</all veterans>
+    <wartime veterans>651.803</wartime veterans>
+    <peacetime veterans>176.007</peacetime veterans>
+    <wwii>50.756</wwii>
+    <vietnam era>64.710</vietnam era>
+    <gulf war era>247.485</gulf war era>
+    <pre-wwii>343.162</pre-wwii>
+    <wwii only>981</wwii only>
+    <wwi and kore>42.362</wwi and kore>
+    <wwii korean vietnam>4.638</wwii korean vietnam>
+    <between wwi korean>3.756</between wwi korean>
+    <koren era only>3.414</koren era only>
+    <korean conflict>45.221</korean conflict>
+    <korean and vietnam era>11.095</korean and vietnam era>
+    <between korean and vietnam era>53.599</between korean and vietnam era>
+    <vietnam era only>201.570</vietnam era only>
+    <vietnam era and gulf war era>26.857</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>4.207</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>118.013</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>128.805</gulf war era and post 911 era>
+    <post 911 era>104.368</post 911 era>
+    <gulf war era and post 911>78.925</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Washington</date>
+    <all veterans>617.225</all veterans>
+    <wartime veterans>466.245</wartime veterans>
+    <peacetime veterans>150.979</peacetime veterans>
+    <wwii>48.543</wwii>
+    <vietnam era>58.002</vietnam era>
+    <gulf war era>216.417</gulf war era>
+    <pre-wwii>173.462</pre-wwii>
+    <wwii only>940</wwii only>
+    <wwi and kore>41.900</wwi and kore>
+    <wwii korean vietnam>4.632</wwii korean vietnam>
+    <between wwi korean>2.011</between wwi korean>
+    <koren era only>2.929</koren era only>
+    <korean conflict>44.554</korean conflict>
+    <korean and vietnam era>6.805</korean and vietnam era>
+    <between korean and vietnam era>51.004</between korean and vietnam era>
+    <vietnam era only>192.882</vietnam era only>
+    <vietnam era and gulf war era>13.223</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>1.496</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>96.107</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>78.453</gulf war era and post 911 era>
+    <post 911 era>31.378</post 911 era>
+    <gulf war era and post 911>48.912</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>West Virginia</date>
+    <all veterans>179.623</all veterans>
+    <wartime veterans>131.873</wartime veterans>
+    <peacetime veterans>47.750</peacetime veterans>
+    <wwii>15.868</wwii>
+    <vietnam era>19.557</vietnam era>
+    <gulf war era>61.855</gulf war era>
+    <pre-wwii>39.485</pre-wwii>
+    <wwii only>85</wwii only>
+    <wwi and kore>14.596</wwi and kore>
+    <wwii korean vietnam>765</wwii korean vietnam>
+    <between wwi korean>508</between wwi korean>
+    <koren era only>1.539</koren era only>
+    <korean conflict>16.729</korean conflict>
+    <korean and vietnam era>1.555</korean and vietnam era>
+    <between korean and vietnam era>21.985</between korean and vietnam era>
+    <vietnam era only>58.235</vietnam era only>
+    <vietnam era and gulf war era>1.388</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>168</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>24.142</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>20.530</gulf war era and post 911 era>
+    <post 911 era>5.650</post 911 era>
+    <gulf war era and post 911>11.750</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Wisconsin</date>
+    <all veterans>436.630</all veterans>
+    <wartime veterans>316.458</wartime veterans>
+    <peacetime veterans>120.172</peacetime veterans>
+    <wwii>42.170</wwii>
+    <vietnam era>49.316</vietnam era>
+    <gulf war era>151.640</gulf war era>
+    <pre-wwii>82.684</pre-wwii>
+    <wwii only>449</wwii only>
+    <wwi and kore>39.238</wwi and kore>
+    <wwii korean vietnam>2.555</wwii korean vietnam>
+    <between wwi korean>377</between wwi korean>
+    <koren era only>2.278</koren era only>
+    <korean conflict>44.631</korean conflict>
+    <korean and vietnam era>1.754</korean and vietnam era>
+    <between korean and vietnam era>55.618</between korean and vietnam era>
+    <vietnam era only>145.220</vietnam era only>
+    <vietnam era and gulf war era>3.471</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>819</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>61.827</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>44.204</gulf war era and post 911 era>
+    <post 911 era>11.552</post 911 era>
+    <gulf war era and post 911>22.638</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Wyoming</date>
+    <all veterans>55.912</all veterans>
+    <wartime veterans>42.930</wartime veterans>
+    <peacetime veterans>12.983</peacetime veterans>
+    <wwii>3.819</wwii>
+    <vietnam era>5.283</vietnam era>
+    <gulf war era>18.274</gulf war era>
+    <pre-wwii>17.818</pre-wwii>
+    <wwii only>0</wwii only>
+    <wwi and kore>3.427</wwi and kore>
+    <wwii korean vietnam>356</wwii korean vietnam>
+    <between wwi korean>36</between wwi korean>
+    <koren era only>189</koren era only>
+    <korean conflict>4.222</korean conflict>
+    <korean and vietnam era>669</korean and vietnam era>
+    <between korean and vietnam era>5.092</between korean and vietnam era>
+    <vietnam era only>16.402</vietnam era only>
+    <vietnam era and gulf war era>1.052</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>115</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>7.702</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>9.543</gulf war era and post 911 era>
+    <post 911 era>2.447</post 911 era>
+    <gulf war era and post 911>4.660</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Puerto Rico</date>
+    <all veterans>109.785</all veterans>
+    <wartime veterans>82.555</wartime veterans>
+    <peacetime veterans>27.230</peacetime veterans>
+    <wwii>7.135</wwii>
+    <vietnam era>23.118</vietnam era>
+    <gulf war era>33.805</gulf war era>
+    <pre-wwii>23.525</pre-wwii>
+    <wwii only>153</wwii only>
+    <wwi and kore>5.270</wwi and kore>
+    <wwii korean vietnam>1.526</wwii korean vietnam>
+    <between wwi korean>340</between wwi korean>
+    <koren era only>604</koren era only>
+    <korean conflict>20.143</korean conflict>
+    <korean and vietnam era>1.110</korean and vietnam era>
+    <between korean and vietnam era>13.436</between korean and vietnam era>
+    <vietnam era only>30.642</vietnam era only>
+    <vietnam era and gulf war era>1.095</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>618</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>13.036</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>8.360</gulf war era and post 911 era>
+    <post 911 era>3.429</post 911 era>
+    <gulf war era and post 911>10.022</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+  <row>
+    <date>Is. Areas & Foreign</date>
+    <all veterans>108.493</all veterans>
+    <wartime veterans>79.233</wartime veterans>
+    <peacetime veterans>29.260</peacetime veterans>
+    <wwii>14.433</wwii>
+    <vietnam era>10.207</vietnam era>
+    <gulf war era>33.166</gulf war era>
+    <pre-wwii>25.532</pre-wwii>
+    <wwii only>230</wwii only>
+    <wwi and kore>13.134</wwi and kore>
+    <wwii korean vietnam>944</wwii korean vietnam>
+    <between wwi korean>354</between wwi korean>
+    <koren era only>610</koren era only>
+    <korean conflict>8.089</korean conflict>
+    <korean and vietnam era>820</korean and vietnam era>
+    <between korean and vietnam era>10.095</between korean and vietnam era>
+    <vietnam era only>30.359</vietnam era only>
+    <vietnam era and gulf war era>1.400</vietnam era and gulf war era>
+    <vietnam era gulf war era and post 911>232</vietnam era gulf war era and post 911>
+    <between vietnam era and gulf war era>18.325</between vietnam era and gulf war era>
+    <gulf war era and post 911 era>12.966</gulf war era and post 911 era>
+    <post 911 era>4.727</post 911 era>
+    <gulf war era and post 911>6.208</gulf war era and post 911>
+    <post gulf war era>0</post gulf war era>
+  </row>
+</rows>
