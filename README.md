@@ -9,7 +9,7 @@ The goal is to get up, make available for the public to use in a machine readabl
 
 * National Veteran Population By Age Group [csv](national-veteran-population-age-group.csv)  [json](national-veteran-population-age-group.json)  [xml](national-veteran-population-age-group.xml)
 * National Veteran Population By Period Served [csv](national-veteran-population-period-served.csv)  [json](national-veteran-population-period-served.json)  [xml](national-veteran-population-period-served.xml)
-* National Veteran Population By Race [csv](national-veteran-population-race.csv)  [json](national-veteran-population-race.json)  [xml]national-veteran-population-race.xml)
+* National Veteran Population By Race [csv](national-veteran-population-race.csv)  [json](national-veteran-population-race.json)  [xml](national-veteran-population-race.xml)
 * National Veteran Population By Branch [csv](national-veteran-population-branch-of-service.csv)  [json](national-veteran-population-branch-of-service.json)  [xml](national-veteran-population-branch-of-service.xml)
 * National Veteran Population By Rank [csv](national-veteran-population-rank.csv)  [json](national-veteran-population-rank.json)  [xml](national-veteran-population-rank.xml)
 * State Veteran Population By Age Group [csv](state-veteran-population-age-group.csv)  [json](state-veteran-population-age-group.json)  [xml](national-veteran-population-age-group.xml)
