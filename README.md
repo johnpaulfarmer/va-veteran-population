@@ -5,7 +5,7 @@ This is a data repostitory for veteran population datasets. These datasets are p
 
 These data sets are generated from Excel spreadsheets and do not match the formats 100%. These datasets have NOT been approved by VA in their current state.
 
-The goal is to get up, make available for the public to use in a machine readable format, in a way that can be updated and curated by the public.
+The goal is to make these data sets available for public use in a machine readable format, in a way that can be updated and curated by the public.
 
 * National Veteran Population By Age Group [csv](national-veteran-population-age-group.csv)  [json](national-veteran-population-age-group.json)  [xml](national-veteran-population-age-group.xml)
 * National Veteran Population By Period Served [csv](national-veteran-population-period-served.csv)  [json](national-veteran-population-period-served.json)  [xml](national-veteran-population-period-served.xml)
